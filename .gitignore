@@ -1,0 +1,26 @@
+# C++ 
+build/
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Дополнительно
+*.user
+*.sln
+*.vcxproj*
+*.DS_Store
+Thumbs.db
